@@ -1,2 +1,2 @@
-# intro
-Meu primeiro repositorio
+# Introdução
+Meu primeiro repositorio, criado para aprender a usar o Gihub
